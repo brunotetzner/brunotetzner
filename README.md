@@ -1,12 +1,6 @@
-### Hi there 👋
-
-<!--
-**brunotetzner/brunotetzner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Sou desenvolvedor front end e estudante de desenvolvimento full stack.
 - 🌱 No momento estou aprendendo sobre desenvolvimento back end.
+- <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
